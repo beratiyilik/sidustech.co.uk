@@ -1,2 +1,2 @@
 # sidustechcouk
-Sidus Information Technology Solutions LTD
+Sidus Information Technology Solutions Ltd
